@@ -1,0 +1,9 @@
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\bin\Release\TimeSpeaker.exe.config
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\bin\Release\TimeSpeaker.exe
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\bin\Release\TimeSpeaker.pdb
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\obj\Release\TimeSpeaker.Properties.Resources.resources
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\obj\Release\TimeSpeaker.csproj.GenerateResource.cache
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\obj\Release\TimeSpeaker.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\obj\Release\TimeSpeaker.exe
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\obj\Release\TimeSpeaker.pdb
+C:\Users\Elmer\Documents\MVS\TimeSpeaker\obj\Release\TimeSpeaker.csprojAssemblyReference.cache
